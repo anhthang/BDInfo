@@ -1,0 +1,12 @@
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\bin\Debug\BDInfo.exe.config
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\bin\Debug\BDInfo.exe
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\bin\Debug\BDInfo.pdb
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.FormChart.resources
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.FormMain.resources
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.FormPlaylist.resources
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.FormReport.resources
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.FormSettings.resources
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.Properties.Resources.resources
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.csproj.GenerateResource.Cache
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.exe
+B:\prob\BDInfo.v.0.5.8-src\BDInfo\obj\Debug\BDInfo.pdb

@@ -1,0 +1,1 @@
+The BDInfo tool was designed to collect video and audio technical specifications from Blu-ray movie discs, including disc size, playlist contents, video, audio, subtitle and graphics stream codec details and bitrates. Requirements .NET Framework 2.0. 
